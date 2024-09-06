@@ -3,7 +3,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leepro1&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
   <div>
-  <h3>👋 HuiJu Lee 👋</h3>
+  <h3>👋 LeePro1 👋</h3>
 
   <br>
   
